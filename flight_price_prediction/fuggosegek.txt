@@ -1,7 +1,0 @@
-Flask
-Flask_Cors
-pandas
-sklearn
-scikit-learn
-scipy
-matplotlib
